@@ -34,3 +34,6 @@ git add .
 git atatus
 git commit -m "commit message"
 git push
+
+create a new branch:
+git checkout -b "BranchNameWithoutSpace"
