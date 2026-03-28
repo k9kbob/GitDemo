@@ -1,0 +1,36 @@
+Git >> versioin control
+
+    v1
+    v2
+    v3
+new v4
+
+>> it is distributed (on cloud)
+>> for collaboration
+>> tracking changes
+>> recovery
+
+Github >> a web app
+
+For first time needt to configure in our system. Type this:"
+git config --global user.name "k9kbob"
+git config --global user.email "thundermentality09@gmail.com
+
+git config --global color.ui auto
+
+
+Mandatory commands:
+>> git init
+>> git remote add origin https://github.com/k9kbob/GitDemo.git
+
+git pull origin main
+git status
+
+to push one file:
+git add "file name"
+
+to push all the files at once:
+git add .
+git atatus
+git commit -m "commit message"
+git push
